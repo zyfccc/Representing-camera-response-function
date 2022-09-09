@@ -64,7 +64,7 @@ During calibration of each camera, the program calculates the optimal parameter 
 
 Camera calibration results visualised:
 
-![Representing-crf-fig1](https://github.com/zyfccc/Representing-camera-response-function/blob/main/imgs/results.jpg)
+![Representing-crf-fig1](https://github.com/zyfccc/Representing-camera-response-function/blob/main/imgs/results.png)
 
 
 
