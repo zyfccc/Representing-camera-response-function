@@ -1,6 +1,18 @@
 # Representing Camera Response Function by a Single Latent Variable and Fully Connected Neural Network
 
-Code for the paper "Representing Camera Response Function by a Single Latent Variable and Fully Connected Neural Network".
+Code for the paper "Representing Camera Response Function by a Single Latent Variable and Fully Connected Neural Network". If you use this code or the dataset, please cite our paper:
+
+
+```
+@misc{zhao2022representing,
+    title={Representing Camera Response Function by a Single Latent Variable and Fully Connected Neural Network},
+    author={Yunfeng Zhao and Stuart Ferguson and Huiyu Zhou and Karen Rafferty},
+    year={2022},
+    eprint={2209.03624},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+```
 
 This repo provides an example program of the proposed model in the paper, a pre-trained camera response function (CRF) representation model, and the image dataset used. 
 
@@ -50,7 +62,9 @@ During calibration of each camera, the program calculates the optimal parameter 
 
 ## Result visualisation
 
+Camera calibration results visualised:
 
+![Representing-crf-fig1](https://github.com/zyfccc/Representing-camera-response-function/blob/main/imgs/results.jpg)
 
 
 
