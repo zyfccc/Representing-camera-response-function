@@ -4,13 +4,13 @@ Code for the paper "Representing Camera Response Function by a Single Latent Var
 
 
 ```
-@misc{zhao2022representing,
-    title={Representing Camera Response Function by a Single Latent Variable and Fully Connected Neural Network},
-    author={Yunfeng Zhao and Stuart Ferguson and Huiyu Zhou and Karen Rafferty},
-    year={2022},
-    eprint={2209.03624},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
+@article{Zhao2022,
+    author = {Zhao, Yunfeng and Ferguson, Stuart and Zhou, Huiyu and Rafferty, Karen},
+    doi = {10.1007/s11760-022-02351-8},
+    journal = {Signal, Image and Video Processing},
+    month = {Sep},
+    title = {{Representing Camera Response Function by a Single Latent Variable and Fully Connected Neural Network}},
+    year = {2022}
 }
 ```
 
@@ -64,7 +64,7 @@ During calibration of each camera, the program calculates the optimal parameter 
 
 Camera calibration results visualised:
 
-![Representing-crf-fig1](https://github.com/zyfccc/Representing-camera-response-function/blob/main/imgs/results.png)
+![Representing-crf-fig1](https://user-images.githubusercontent.com/5927085/190674959-59e6297c-6440-406f-836f-c0fcfce35d25.png)
 
 
 
